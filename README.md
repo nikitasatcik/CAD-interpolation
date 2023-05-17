@@ -1,3 +1,3 @@
-# cad-interpolation
+# CAD interpolation
 Interpolation of a solid model cross-section via cubic splines.
-![spline](https://github.com/nikitasatcik/cad-interpolation/assets/8051031/2d4d08cf-d8c5-4010-bb2e-bc50f69d2e2d)
+![spline](https://github.com/nikitasatcik/cad-interpolation/assets/8051031/5ba987c8-626e-468f-85f6-7439480ffe59)
